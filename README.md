@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Search Algorithms, Symbol Table, Binary Search Tree and Hashtable.
+🌱 I’m currently learning Search Algorithms, Symbol Table, Balanced Search Tree and Hashtable.
 
 💬 Ask me about C#, ASP.Net Core (MVC/API), MSSQL Server, Data Structure & Algorithms, Azure Service Febric.
 
