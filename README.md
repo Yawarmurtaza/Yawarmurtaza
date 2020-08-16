@@ -1,6 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning Search Algorithms, Symbol Table, Binary Search Tree and Hashtable
+🌱 I’m currently learning Search Algorithms, Symbol Table, Binary Search Tree and Hashtable.
+
 💬 Ask me about C#, ASP.Net Core (MVC/API), MSSQL Server, Data Structure & Algorithms, Azure Service Febric.
+
 ⚡ Fun fact: The word "ga" means sing, so ga ga means sing sing. This means Lady Gaga = Lady Sing Sing.
 <!--
 **Yawarmurtaza/Yawarmurtaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
